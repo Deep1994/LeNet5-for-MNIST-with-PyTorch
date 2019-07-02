@@ -6,4 +6,4 @@
 
 ## Model architecture
 
-![img](../model.png)
+![img](./model.png)
