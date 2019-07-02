@@ -1,4 +1,4 @@
-# LeNet5-for-MNIST-with-PyTorch-
+# LeNet5-for-MNIST-with-PyTorch
 
 ## Requirement
 
