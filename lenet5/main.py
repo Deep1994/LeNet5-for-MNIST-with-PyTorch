@@ -98,8 +98,4 @@ with torch.no_grad():
     print('Test Accuracy of the model on the 10000 test images: {} %'.format(100 * correct / total))
 
 # Save the model checkpoint
-<<<<<<< HEAD
 torch.save(model.state_dict(), 'model.ckpt')
-=======
-torch.save(model.state_dict(), 'model.ckpt')
->>>>>>> fb8de6a3d021d0f15290d23e9c70cc89f5564c4b

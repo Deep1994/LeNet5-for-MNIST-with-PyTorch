@@ -36,8 +36,4 @@ class LeNet5(nn.Module):
         out = self.convnet(x)
         out = out.view(x.size(0), -1)
         out = self.fc(out)
-<<<<<<< HEAD
         return out
-=======
-        return out
->>>>>>> fb8de6a3d021d0f15290d23e9c70cc89f5564c4b
